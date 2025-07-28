@@ -1,1 +1,2 @@
-create a new branch, add, commit with meaningful log, push
+create a new branch
+add, commit with meaningful log, push
